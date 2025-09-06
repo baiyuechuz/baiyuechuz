@@ -1,4 +1,4 @@
-# <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
+# <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
 > _**人生就像一面镜子，你笑它也笑，你哭它也哭。**_ - 佚名
 
