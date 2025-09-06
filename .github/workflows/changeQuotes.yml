@@ -1,0 +1,24 @@
+name: Change qoute every day and push to GitHub
+on:
+  schedule:
+    - cron: "0 1,10 * * *"
+  workflow_dispatch:
+jobs:
+  update-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Run index.js
+        run: npm start
+      - name: Commit quote changes
+        run: |
+          git config --global user.name "baiyuechuz"
+          git config --global user.email "baiyuechuu@gmail.com"
+          git add .
+          git commit -m "changes: Quotes" || echo "No changes"
+          git push
