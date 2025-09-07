@@ -1,7 +1,7 @@
 name: Change qoute every day and push to GitHub
 on:
   schedule:
-    - cron: "0 1,10 * * *"
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 jobs:
   update-quotes:
@@ -20,5 +20,10 @@ jobs:
           git config --global user.name "baiyuechuz"
           git config --global user.email "baiyuechuu@gmail.com"
           git add .
-          git commit -m "changes: Quotes" || echo "No changes"
+          EMOJIS=("🌟" "🚀" "✨" "🎉" "💫" "🌈" "🔥" "⚡" "💎" "🌺" "🦋" "🍀" "🎨" "🎭" "🎪" "🎯" "🎲" "🎸" "🎵" "🎶" "📝" "📚" "💭" "💡" "🔮" "🌙" "☀️" "🌸" "🍃" "🌊")
+          RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
+          RANDOM_HOUR1=$((RANDOM % 24))
+          RANDOM_HOUR2=$((RANDOM % 24))
+          RANDOM_HOUR3=$((RANDOM % 24))
+          git commit -m "$RANDOM_EMOJI changes: Quotes" || echo "No changes"
           git push
