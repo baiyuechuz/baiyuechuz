@@ -24,48 +24,10 @@ themeToggle.addEventListener("click", () => {
 });
 
 const fetchUserData = async () => {
-	const response = await fetch("https://api.github.com/users/baiyuechuu");
+	const response = await fetch("https://api.github.com/users/baiyuechuz");
 	const data = await response.json();
 	return data;
 };
-
-// format data
-
-// {
-//   "login": "baiyuechuu",
-//   "id": 119971209,
-//   "node_id": "U_kgDOByadiQ",
-//   "avatar_url": "https://avatars.githubusercontent.com/u/119971209?v=4",
-//   "gravatar_id": "",
-//   "url": "https://api.github.com/users/baiyuechuu",
-//   "html_url": "https://github.com/baiyuechuu",
-//   "followers_url": "https://api.github.com/users/baiyuechuu/followers",
-//   "following_url": "https://api.github.com/users/baiyuechuu/following{/other_user}",
-//   "gists_url": "https://api.github.com/users/baiyuechuu/gists{/gist_id}",
-//   "starred_url": "https://api.github.com/users/baiyuechuu/starred{/owner}{/repo}",
-//   "subscriptions_url": "https://api.github.com/users/baiyuechuu/subscriptions",
-//   "organizations_url": "https://api.github.com/users/baiyuechuu/orgs",
-//   "repos_url": "https://api.github.com/users/baiyuechuu/repos",
-//   "events_url": "https://api.github.com/users/baiyuechuu/events{/privacy}",
-//   "received_events_url": "https://api.github.com/users/baiyuechuu/received_events",
-//   "type": "User",
-//   "user_view_type": "public",
-//   "site_admin": false,
-//   "name": "BaiYueChu",
-//   "company": null,
-//   "blog": "",
-//   "location": "Viet Nam",
-//   "email": null,
-//   "hireable": null,
-//   "bio": "\"落子無悔, 舉棋不回.\"",
-//   "twitter_username": null,
-//   "public_repos": 11,
-//   "public_gists": 0,
-//   "followers": 18,
-//   "following": 6,
-//   "created_at": "2022-12-06T19:33:52Z",
-//   "updated_at": "2025-08-29T05:08:53Z"
-// }
 
 const loadProfile = async () => {
 	const githubData = await fetchUserData();
@@ -95,6 +57,10 @@ const loadProfile = async () => {
 			<span class="stat-number">${githubData.following}</span>
 			<span class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M12 4a3.5 3.5 0 1 0 0 7a3.5 3.5 0 0 0 0-7M6.5 7.5a5.5 5.5 0 1 1 11 0a5.5 5.5 0 0 1-11 0M3 19a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v3H3zm5-3a3 3 0 0 0-3 3v1h14v-1a3 3 0 0 0-3-3z"/></svg>Following</span>
 		</div>
+</div>
+<div class="desc-container">
+  <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labori Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labori Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labori
+</p>
 </div>
 	`;
 };
