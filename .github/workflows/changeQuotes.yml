@@ -3,27 +3,36 @@ on:
   schedule:
     - cron: "0 */8 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   update-quotes:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Install deps (nếu cần)
+        run: |
+          if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
+            npm ci
+          else
+            npm install
+          fi
       - name: Run index.js
         run: npm start
-      - name: Commit quote changes
+      - name: Commit & push quote changes
         run: |
-          git config --global user.name "baiyuechuz"
-          git config --global user.email "baiyuechuu@gmail.com"
-          git add .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
           EMOJIS=("🌟" "🚀" "✨" "🎉" "💫" "🌈" "🔥" "⚡" "💎" "🌺" "🦋" "🍀" "🎨" "🎭" "🎪" "🎯" "🎲" "🎸" "🎵" "🎶" "📝" "📚" "💭" "💡" "🔮" "🌙" "☀️" "🌸" "🍃" "🌊")
           RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
-          RANDOM_HOUR1=$((RANDOM % 24))
-          RANDOM_HOUR2=$((RANDOM % 24))
-          RANDOM_HOUR3=$((RANDOM % 24))
-          git commit -m "$RANDOM_EMOJI changes: Quotes" || echo "No changes"
-          git push
+
+          git commit -m "$RANDOM_EMOJI changes: Quotes" || exit 0
+          git push origin HEAD:main
