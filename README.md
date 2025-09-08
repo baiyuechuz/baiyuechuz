@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“地藏菩萨不离佛前一炷香，人生如梦。”**_ - 释迦牟尼
+> _**“忍一时风平浪静，退一步海阔天空。”**_ - 古人
 
 #### Places where you can contact me
 
