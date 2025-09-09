@@ -26,8 +26,8 @@ jobs:
         run: npm start
       - name: Commit & push quote changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "baiyuechuz"
+          git config user.email "baiyuechuu@gmail.com"
 
           git add -A
 
