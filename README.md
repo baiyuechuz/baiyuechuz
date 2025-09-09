@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“从善如登，从恶如崩。”**_ - 《左传》
+> _**别让人生，输给了心情。**_ - 佚名
 
 #### Places where you can contact me
 
