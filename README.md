@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人活在世上，既然有了责任，就要尽全力去承担。”**_ - 鲁迅
+> _**“为人性僻耽佳句，语不惊人死不休。”**_ - 唐代·李贺
 
 #### Places where you can contact me
 
