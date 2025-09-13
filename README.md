@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**人生没有彩排，每一天都是现场直播。**_ - 佚名
+> _**“人活在世上，既然有了责任，就要尽全力去承担。”**_ - 鲁迅
 
 #### Places where you can contact me
 
