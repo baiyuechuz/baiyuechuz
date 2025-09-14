@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“为人性僻耽佳句，语不惊人死不休。”**_ - 唐代·李贺
+> _**把时间用在进步上，生活也会蒸蒸日上。**_ - 古谚
 
 #### Places where you can contact me
 
