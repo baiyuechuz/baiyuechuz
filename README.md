@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“沉默是金。”**_ - 谚语
+> _**“思君不见下渝州，空忆夜月。”**_ - 王昌龄
 
 #### Places where you can contact me
 
