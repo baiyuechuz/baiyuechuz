@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你无法叫醒一个装睡的人。**_ - 佚名
+> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
 
 #### Places where you can contact me
 
