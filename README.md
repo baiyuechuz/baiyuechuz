@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“行远自迩，登高自卑。”**_ - 老子
+> _**“时间如水，时间如金，时间不等人。”**_ - 古人
 
 #### Places where you can contact me
 
