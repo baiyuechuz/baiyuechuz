@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“星星之火，可以燎原。”**_ - 毛泽东
+> _**“行远自迩，登高自卑。”**_ - 老子
 
 #### Places where you can contact me
 
