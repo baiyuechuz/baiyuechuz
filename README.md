@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“千里之行，始于足下。”**_ - 老子
+> _**机不可失，时不再来。**_ - 古谚
 
 #### Places where you can contact me
 
