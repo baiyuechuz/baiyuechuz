@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“道阻且长，行则将至。”**_ - 《史记》
+> _**“千里之行，始于足下。”**_ - 老子
 
 #### Places where you can contact me
 
