@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“前事不忘，后事之师。”**_ - 《左传》
+> _**生活不是等待暴风雨过去，而是学会在雨中跳舞。**_ - 佚名
 
 #### Places where you can contact me
 
