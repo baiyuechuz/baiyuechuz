@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“从善如登，从恶如崩。”**_ - 《左传》
+> _**“天才就是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
 
 #### Places where you can contact me
 
