@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人生如梦，一尊还酹江月。”**_ - 苏轼
+> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孔子
 
 #### Places where you can contact me
 
