@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孔子
+> _**别让人生，输给了心情。**_ - 佚名
 
 #### Places where you can contact me
 
