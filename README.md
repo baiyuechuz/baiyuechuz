@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**生活就像一杯水，冷暖自知。**_ - 佚名
+> _**“人生自古谁无死，留取丹心照汗青。”**_ - 文天祥
 
 #### Places where you can contact me
 
