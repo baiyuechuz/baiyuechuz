@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若不离不弃，我必生死相依。**_ - 佚名
+> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
 
 #### Places where you can contact me
 
