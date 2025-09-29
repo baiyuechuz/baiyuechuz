@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“知识就是力量。”**_ - 弗朗西斯·培根
+> _**“不以物喜，不以己悲。”**_ - 苏轼
 
 #### Places where you can contact me
 
