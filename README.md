@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。”**_ - 苏轼
+> _**“知识就是力量。”**_ - 弗朗西斯·培根
 
 #### Places where you can contact me
 
