@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**不怕慢，就怕站。**_ - 古谚
+> _**“十年树木，百年树人。”**_ - 《管子》
 
 #### Places where you can contact me
 
