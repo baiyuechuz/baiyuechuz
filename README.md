@@ -16,6 +16,6 @@
 
 <div align="center">
 
-[![Technical Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs,nodejs,express,mongodb,firebase,javascript,typescript,python,c,cpp,lua,flutter,dart,docker,git,github,gitlab,vercel,postman,bun,linux,arch,bash,ubuntu,windows,neovim,vim,vscode,figma,ps,ai,qt,raspberrypi,tauri,cmake,latex,md,nginx,githubactions,swift,jquery,mysql,notion,obsidian,postgres,sqlite,supabase,vite,kubernetes,apple,discordjs)](https://skillicons.dev)
+[![Technical Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs,nodejs,express,mongodb,firebase,javascript,typescript,python,c,cpp,lua,flutter,dart,docker,git,github,gitlab,vercel,postman,bun,linux,arch,bash,ubuntu,windows,neovim,vim,vscode,figma,ps,ai,qt,raspberrypi,tauri,cmake,latex,md,nginx,githubactions,swift,jquery,mysql,notion,obsidian,postgres,sqlite,supabase,vite,kubernetes,apple,discordjs,vuejs,nuxtjs,svg)](https://skillicons.dev)
 
 </div>
