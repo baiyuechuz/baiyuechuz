@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“世事一场大梦，人生几度秋凉。”**_ - 苏轼
+> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
 
 #### Places where you can contact me
 
