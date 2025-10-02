@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你笑，全世界都跟着你笑。**_ - 佚名
+> _**“读书破万卷，下笔如有神。”**_ - 杜甫
 
 #### Places where you can contact me
 
