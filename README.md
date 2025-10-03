@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
+> _**“天生我材必有用，千金散尽还复来。”**_ - 李白
 
 #### Places where you can contact me
 
