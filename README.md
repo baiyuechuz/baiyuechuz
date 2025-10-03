@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天生我材必有用，千金散尽还复来。”**_ - 李白
+> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孟子
 
 #### Places where you can contact me
 
