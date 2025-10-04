@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“留得青山在，不怕没柴烧。”**_ - 古人
+> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
 
 #### Places where you can contact me
 
