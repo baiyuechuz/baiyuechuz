@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“忍一时风平浪静，退一步海阔天空。”**_ - 古人
+> _**“爱人者，人恒爱之；敬人者，人恒敬之。”**_ - 孟子
 
 #### Places where you can contact me
 
