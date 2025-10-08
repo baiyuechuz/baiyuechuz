@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
+> _**别让人生，输给了心情。**_ - 佚名
 
 #### Places where you can contact me
 
