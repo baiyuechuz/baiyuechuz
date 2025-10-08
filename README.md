@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**别让人生，输给了心情。**_ - 佚名
+> _**“采得百花成蜜后，为谁辛苦为谁甜。”**_ - 唐代·罗隐
 
 #### Places where you can contact me
 
