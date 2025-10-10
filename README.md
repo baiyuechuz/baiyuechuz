@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“无可奈何花落去，似曾相识燕归来。”**_ - 李清照
+> _**人生就像一面镜子，你笑它也笑，你哭它也哭。**_ - 佚名
 
 #### Places where you can contact me
 
