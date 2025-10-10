@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“自古英雄出少年。”**_ - 杨洪基
+> _**“无可奈何花落去，似曾相识燕归来。”**_ - 李清照
 
 #### Places where you can contact me
 
