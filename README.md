@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天才是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
+> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
 
 #### Places where you can contact me
 
