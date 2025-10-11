@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
+> _**“酒逢知己千杯少，话不投机半句多。”**_ - 唐代·白居易
 
 #### Places where you can contact me
 
