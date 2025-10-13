@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“不经一事，不长一智。”**_ - 古人
+> _**“钟鼓馔玉不足贵，但愿长醉不复醒。”**_ - 李白
 
 #### Places where you can contact me
 
