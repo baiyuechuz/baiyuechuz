@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“思君不见下渝州，空忆夜月。”**_ - 王昌龄
+> _**“长风破浪会有时，直挂云帆济沧海。”**_ - 李白
 
 #### Places where you can contact me
 
