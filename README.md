@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
+> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
 
 #### Places where you can contact me
 
