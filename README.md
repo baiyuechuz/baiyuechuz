@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“沉舟侧畔千帆过，病树前头万木春。”**_ - 刘禹锡
+> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
 
 #### Places where you can contact me
 
