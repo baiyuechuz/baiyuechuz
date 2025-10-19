@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**学历代表过去，学习能力才代表将来。**_ - 古谚
 
 #### Places where you can contact me
 
