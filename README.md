@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**学历代表过去，学习能力才代表将来。**_ - 古谚
+> _**“留得青山在，不怕没柴烧。”**_ - 古人
 
 #### Places where you can contact me
 
