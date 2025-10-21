@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**星星发光，是为了让每个人找到属于自己的星星。**_ - 古谚
+> _**“落霞与孤鹜齐飞，秋水共长天一色。”**_ - 王勃
 
 #### Places where you can contact me
 
