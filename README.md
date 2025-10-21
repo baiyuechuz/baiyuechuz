@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“落霞与孤鹜齐飞，秋水共长天一色。”**_ - 王勃
+> _**“性格决定命运。”**_ - 古谚
 
 #### Places where you can contact me
 
