@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“花有重开日，人无再少年。”**_ - 唐代·刘禹锡
+> _**感谢遇见，感谢陪伴。**_ - 佚名
 
 #### Places where you can contact me
 
