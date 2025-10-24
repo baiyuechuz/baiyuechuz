@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若想得到这世界最好的东西，先让世界看到最好的你。**_ - 佚名
+> _**“地藏菩萨不离佛前一炷香，人生如梦。”**_ - 释迦牟尼
 
 #### Places where you can contact me
 
