@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“非学无以广才，非志无以成学。”**_ - 诸葛亮
+> _**你若想得到这世界最好的东西，先让世界看到最好的你。**_ - 佚名
 
 #### Places where you can contact me
 
