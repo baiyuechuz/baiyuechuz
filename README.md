@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“风雨之后，见彩虹。”**_ - 古人
+> _**“非学无以广才，非志无以成学。”**_ - 诸葛亮
 
 #### Places where you can contact me
 
