@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“地藏菩萨不离佛前一炷香，人生如梦。”**_ - 释迦牟尼
+> _**“有些人，只有在失去后才会懂得珍惜。”**_ - 鲁迅
 
 #### Places where you can contact me
 
