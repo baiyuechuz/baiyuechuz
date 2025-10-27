@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若盛开，清风自来。**_ - 林清玄
+> _**“世事一场大梦，人生几度秋凉。”**_ - 苏轼
 
 #### Places where you can contact me
 
