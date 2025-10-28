@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**没有碰巧的成功，也没有白费的努力。**_ - 古谚
+> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
 
 #### Places where you can contact me
 
