@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你无法叫醒一个装睡的人。**_ - 佚名
+> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
 
 #### Places where you can contact me
 
