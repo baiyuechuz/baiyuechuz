@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**心有多大，舞台就有多大。**_ - 佚名
+> _**你无法叫醒一个装睡的人。**_ - 佚名
 
 #### Places where you can contact me
 
