@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
+> _**心有多大，舞台就有多大。**_ - 佚名
 
 #### Places where you can contact me
 
