@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**万物皆有美，但不是每个人都能看到。**_ - 孔子
+> _**“少年强则国强，少年智则国智。”**_ - 毛泽东
 
 #### Places where you can contact me
 
