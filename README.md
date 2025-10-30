@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
+> _**万物皆有美，但不是每个人都能看到。**_ - 孔子
 
 #### Places where you can contact me
 
