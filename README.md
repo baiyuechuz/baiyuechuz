@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“静以修身，俭以养德。”**_ - 诸葛亮
+> _**不要轻易说爱，许下的诺言就是欠下的债。**_ - 佚名
 
 #### Places where you can contact me
 
