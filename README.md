@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“得道者多助，失道者寡助。”**_ - 《孟子》
+> _**“三人行，必有我师焉。”**_ - 孔子
 
 #### Places where you can contact me
 
