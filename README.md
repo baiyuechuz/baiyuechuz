@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“三人行，必有我师焉。”**_ - 孔子
+> _**“读书使人进步，实践使人更强。”**_ - 毛泽东
 
 #### Places where you can contact me
 
