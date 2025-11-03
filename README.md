@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“读书使人进步，实践使人更强。”**_ - 毛泽东
+> _**“千里之堤毁于蚁穴。”**_ - 《左传》
 
 #### Places where you can contact me
 
