@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“学无止境，天才始终是勤奋的产物。”**_ - 朱熹
+> _**“不积跬步，无以至千里；不积小流，无以成江海。”**_ - 荀子
 
 #### Places where you can contact me
 
