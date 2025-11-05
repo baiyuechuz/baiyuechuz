@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“忍一时风平浪静，退一步海阔天空。”**_ - 古人
+> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孔子
 
 #### Places where you can contact me
 
