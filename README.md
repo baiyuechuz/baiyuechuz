@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“发愤忘食，乐以忘忧，不知老之将至。”**_ - 孔子
+> _**“忍一时风平浪静，退一步海阔天空。”**_ - 古人
 
 #### Places where you can contact me
 
