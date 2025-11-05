@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“有志者事竟成。”**_ - 古人
+> _**“发愤忘食，乐以忘忧，不知老之将至。”**_ - 孔子
 
 #### Places where you can contact me
 
