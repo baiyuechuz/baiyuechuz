@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孔子
+> _**你若想得到这世界最好的东西，先让世界看到最好的你。**_ - 佚名
 
 #### Places where you can contact me
 
