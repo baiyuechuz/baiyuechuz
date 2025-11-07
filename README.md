@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“不积跬步，无以至千里；不积小流，无以成江海。”**_ - 荀子
+> _**你无法叫醒一个装睡的人。**_ - 佚名
 
 #### Places where you can contact me
 
