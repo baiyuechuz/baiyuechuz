@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人生不止，奋斗不息。”**_ - 毛泽东
+> _**“不积跬步，无以至千里；不积小流，无以成江海。”**_ - 荀子
 
 #### Places where you can contact me
 
