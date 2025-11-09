@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若盛开，清风自来。**_ - 林清玄
+> _**“天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。”**_ - 鲁迅
 
 #### Places where you can contact me
 
