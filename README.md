@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若安好，便是晴天。**_ - 林徽因
+> _**“风雨之后，见彩虹。”**_ - 古谚语
 
 #### Places where you can contact me
 
