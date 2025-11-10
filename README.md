@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“水能载舟，亦能覆舟。”**_ - 《左传》
+> _**“天若有情天亦老，人间正道是沧桑。”**_ - 唐代·辛弃疾
 
 #### Places where you can contact me
 
