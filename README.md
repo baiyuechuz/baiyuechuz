@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天若有情天亦老，人间正道是沧桑。”**_ - 唐代·辛弃疾
+> _**“天行健，君子以自强不息。”**_ - 《易经》
 
 #### Places where you can contact me
 
