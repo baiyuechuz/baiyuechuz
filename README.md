@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“独立寒秋，湘江北去，橘子洲头。”**_ - 毛泽东
+> _**“风雨之后，见彩虹。”**_ - 古谚语
 
 #### Places where you can contact me
 
