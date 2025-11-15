@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“爱人者，人恒爱之；敬人者，人恒敬之。”**_ - 孟子
+> _**“谁言寸草心，报得三春晖。”**_ - 孟郊
 
 #### Places where you can contact me
 
