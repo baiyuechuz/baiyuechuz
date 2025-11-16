@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人生自古谁无死，留取丹心照汗青。”**_ - 文天祥
+> _**“落霞与孤鹜齐飞，秋水共长天一色。”**_ - 王勃
 
 #### Places where you can contact me
 
