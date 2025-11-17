@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“落霞与孤鹜齐飞，秋水共长天一色。”**_ - 王勃
+> _**“读万卷书，行万里路。”**_ - 刘彝
 
 #### Places where you can contact me
 
