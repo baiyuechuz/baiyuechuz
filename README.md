@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“前事不忘，后事之师。”**_ - 《左传》
+> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
 
 #### Places where you can contact me
 
