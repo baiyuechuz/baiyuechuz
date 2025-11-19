@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**机不可失，时不再来。**_ - 古谚
+> _**“雾失楼台，月迷津渡。”**_ - 李清照
 
 #### Places where you can contact me
 
