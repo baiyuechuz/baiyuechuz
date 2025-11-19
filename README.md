@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“雾失楼台，月迷津渡。”**_ - 李清照
+> _**“人无远虑，必有近忧。”**_ - 孔子
 
 #### Places where you can contact me
 
