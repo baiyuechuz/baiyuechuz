@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人无远虑，必有近忧。”**_ - 孔子
+> _**“发愤忘食，乐以忘忧，不知老之将至。”**_ - 孔子
 
 #### Places where you can contact me
 
