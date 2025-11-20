@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“花有重开日，人无再少年。”**_ - 唐代·刘禹锡
+> _**“天才就是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
 
 #### Places where you can contact me
 
