@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“长风破浪会有时，直挂云帆济沧海。”**_ - 李白
+> _**“人生自古谁无死，留取丹心照汗青。”**_ - 文天祥
 
 #### Places where you can contact me
 
