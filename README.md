@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人生自古谁无死，留取丹心照汗青。”**_ - 文天祥
+> _**“天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。”**_ - 苏轼
 
 #### Places where you can contact me
 
