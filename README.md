@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
+> _**“我劝天公重抖擞，不拘一格降人才。”**_ - 毛泽东
 
 #### Places where you can contact me
 
