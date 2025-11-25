@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“我劝天公重抖擞，不拘一格降人才。”**_ - 毛泽东
+> _**“敏而好学，不耻下问。”**_ - 孔子
 
 #### Places where you can contact me
 
