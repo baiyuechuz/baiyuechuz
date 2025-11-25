@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“一寸光阴一寸金，寸金难买寸光阴。”**_ - 谚语
+> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
 
 #### Places where you can contact me
 
