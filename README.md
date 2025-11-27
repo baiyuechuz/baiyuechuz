@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“采得百花成蜜后，为谁辛苦为谁甜。”**_ - 唐代·罗隐
+> _**“不以物喜，不以己悲。”**_ - 苏轼
 
 #### Places where you can contact me
 
