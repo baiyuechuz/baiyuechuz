@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“此情可待成追忆，只是当时已惘然。”**_ - 李商隐
+> _**“读书破万卷，下笔如有神。”**_ - 杜甫
 
 #### Places where you can contact me
 
