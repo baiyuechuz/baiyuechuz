@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“不积跬步，无以至千里。”**_ - 荀子
+> _**“此情可待成追忆，只是当时已惘然。”**_ - 李商隐
 
 #### Places where you can contact me
 
