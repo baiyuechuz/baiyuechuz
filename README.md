@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“读书破万卷，下笔如有神。”**_ - 杜甫
+> _**你若不坚强，没人替你勇敢。**_ - 佚名
 
 #### Places where you can contact me
 
