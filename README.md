@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天行健，君子以自强不息。”**_ - 《周易》
+> _**“世上无难事，只怕有心人。”**_ - 陈寿
 
 #### Places where you can contact me
 
