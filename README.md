@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“举头望明月，低头思故乡。”**_ - 李白
+> _**“人生如梦，一尊还酹江月。”**_ - 苏轼
 
 #### Places where you can contact me
 
