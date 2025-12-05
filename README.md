@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“千磨万击还坚劲，任尔东西南北风。”**_ - 郑板桥
+> _**“读万卷书，行万里路。”**_ - 刘彝
 
 #### Places where you can contact me
 
