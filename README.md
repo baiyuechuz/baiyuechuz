@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“古之学者为己，今之学者为人。”**_ - 唐代·韩愈
+> _**“千里之行，始于足下。”**_ - 老子
 
 #### Places where you can contact me
 
