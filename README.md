@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**感谢遇见，感谢陪伴。**_ - 佚名
+> _**你若不离不弃，我必生死相依。**_ - 佚名
 
 #### Places where you can contact me
 
