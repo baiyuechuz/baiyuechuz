@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“一日不见，如三秋兮。”**_ - 《诗经》
+> _**“风雨之后，见彩虹。”**_ - 古人
 
 #### Places where you can contact me
 
