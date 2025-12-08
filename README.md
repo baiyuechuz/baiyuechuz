@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**不要因为走得太远，忘了我们为什么出发。**_ - 佚名
+> _**你若安好，便是晴天。**_ - 林徽因
 
 #### Places where you can contact me
 
