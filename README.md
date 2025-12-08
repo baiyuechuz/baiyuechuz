@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“风雨之后，见彩虹。”**_ - 古人
+> _**“平生不会相思，才会相思，便害相思。”**_ - 李清照
 
 #### Places where you can contact me
 
