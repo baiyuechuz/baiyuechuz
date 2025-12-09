@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若安好，便是晴天。**_ - 林徽因
+> _**“道阻且长，行则将至。”**_ - 《史记》
 
 #### Places where you can contact me
 
