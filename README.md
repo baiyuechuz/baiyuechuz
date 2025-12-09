@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你无法叫醒一个装睡的人。**_ - 佚名
+> _**“世上无难事，只怕有心人。”**_ - 陈寿
 
 #### Places where you can contact me
 
