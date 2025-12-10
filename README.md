@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“世上无难事，只怕有心人。”**_ - 陈寿
+> _**“东风不与周郎便，铜雀春深锁二乔。”**_ - 杜牧
 
 #### Places where you can contact me
 
