@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“喜怒不形于色。”**_ - 孔子
+> _**“生死有命，富贵在天。”**_ - 古人
 
 #### Places where you can contact me
 
