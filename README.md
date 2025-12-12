@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“敏而好学，不耻下问。”**_ - 孔子
+> _**“一日不见，如三秋兮。”**_ - 《诗经》
 
 #### Places where you can contact me
 
