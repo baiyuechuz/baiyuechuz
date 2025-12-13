@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“天命自有时，事在人为。”**_ - 曹操
+> _**“从善如登，从恶如崩。”**_ - 《左传》
 
 #### Places where you can contact me
 
