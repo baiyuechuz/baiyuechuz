@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“一日不见，如三秋兮。”**_ - 《诗经》
+> _**“天命自有时，事在人为。”**_ - 曹操
 
 #### Places where you can contact me
 
