@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“从善如登，从恶如崩。”**_ - 《左传》
+> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
 
 #### Places where you can contact me
 
