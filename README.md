@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你笑，全世界都跟着你笑。**_ - 佚名
+> _**“人生不止，奋斗不息。”**_ - 毛泽东
 
 #### Places where you can contact me
 
