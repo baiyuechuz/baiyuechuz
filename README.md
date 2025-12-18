@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
+> _**“东风不与周郎便，铜雀春深锁二乔。”**_ - 杜牧
 
 #### Places where you can contact me
 
