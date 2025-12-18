@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“东风不与周郎便，铜雀春深锁二乔。”**_ - 杜牧
+> _**“满招损，谦受益。”**_ - 《尚书》
 
 #### Places where you can contact me
 
