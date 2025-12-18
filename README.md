@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“回头是岸。”**_ - 佛教
+> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
 
 #### Places where you can contact me
 
