@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“水能载舟，亦能覆舟。”**_ - 《左传》
+> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
 
 #### Places where you can contact me
 
