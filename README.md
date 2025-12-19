@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
+> _**你笑，全世界都跟着你笑；你哭，全世界只有你一个人哭。**_ - 佚名
 
 #### Places where you can contact me
 
