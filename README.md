@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“满招损，谦受益。”**_ - 《尚书》
+> _**“水能载舟，亦能覆舟。”**_ - 《左传》
 
 #### Places where you can contact me
 
