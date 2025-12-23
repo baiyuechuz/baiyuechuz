@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“脚踏实地，志存高远。”**_ - 古人
+> _**你笑，全世界都跟着你笑。**_ - 佚名
 
 #### Places where you can contact me
 
