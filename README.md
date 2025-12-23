@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“滴水穿石，绳锯木断。”**_ - 古人
+> _**“脚踏实地，志存高远。”**_ - 古人
 
 #### Places where you can contact me
 
