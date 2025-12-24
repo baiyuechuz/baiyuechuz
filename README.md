@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“为人性僻耽佳句，语不惊人死不休。”**_ - 唐代·李贺
+> _**你不勇敢，没人替你坚强。**_ - 佚名
 
 #### Places where you can contact me
 
