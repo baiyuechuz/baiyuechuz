@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“海内存知己，天涯若比邻。”**_ - 王勃
+> _**“问君能有几多愁，恰似一江春水向东流。”**_ - 李清照
 
 #### Places where you can contact me
 
