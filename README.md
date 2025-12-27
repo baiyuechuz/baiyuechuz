@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“问君能有几多愁，恰似一江春水向东流。”**_ - 李清照
+> _**“在天愿作比翼鸟，在地愿为连理枝。”**_ - 杜牧
 
 #### Places where you can contact me
 
