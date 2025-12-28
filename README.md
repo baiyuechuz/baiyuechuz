@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“千锤万凿出深山，烈火焚烧若等闲。”**_ - 唐代·林则徐
+> _**“地藏菩萨不离佛前一炷香，人生如梦。”**_ - 释迦牟尼
 
 #### Places where you can contact me
 
