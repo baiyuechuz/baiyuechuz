@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“在天愿作比翼鸟，在地愿为连理枝。”**_ - 杜牧
+> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
 
 #### Places where you can contact me
 
