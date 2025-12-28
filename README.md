@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**“千锤万凿出深山，烈火焚烧若等闲。”**_ - 唐代·林则徐
 
 #### Places where you can contact me
 
