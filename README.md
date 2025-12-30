@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
+> _**“大丈夫能屈能伸。”**_ - 林则徐
 
 #### Places where you can contact me
 
