@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**世界上最遥远的距离，是鱼与飞鸟的距离。**_ - 张小娴
+> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
 
 #### Places where you can contact me
 
