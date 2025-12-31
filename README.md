@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**只要站起来的次数比倒下去的次数多，那就是成功。**_ - 古谚
+> _**“衣带渐宽终不悔，为伊消得人憔悴。”**_ - 柳永
 
 #### Places where you can contact me
 
