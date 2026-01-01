@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“人是做出来的，不是天生的。”**_ - 爱迪生
+> _**“问君能有几多愁，恰似一江春水向东流。”**_ - 李清照
 
 #### Places where you can contact me
 
