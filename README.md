@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“花有重开日，人无再少年。”**_ - 唐代·刘禹锡
+> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
 
 #### Places where you can contact me
 
