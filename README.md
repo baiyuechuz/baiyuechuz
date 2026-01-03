@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“自古英雄出少年。”**_ - 杨洪基
+> _**“此情可待成追忆，只是当时已惘然。”**_ - 李商隐
 
 #### Places where you can contact me
 
