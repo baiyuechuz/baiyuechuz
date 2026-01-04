@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“独立寒秋，湘江北去，橘子洲头。”**_ - 毛泽东
+> _**“大丈夫能屈能伸。”**_ - 林则徐
 
 #### Places where you can contact me
 
