@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“性格决定命运。”**_ - 古谚
+> _**“独立寒秋，湘江北去，橘子洲头。”**_ - 毛泽东
 
 #### Places where you can contact me
 
