@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你无法叫醒一个装睡的人。**_ - 佚名
+> _**“少壮不努力，老大徒伤悲。”**_ - 汉乐府
 
 #### Places where you can contact me
 
