@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“一寸光阴一寸金，寸金难买寸光阴。”**_ - 古人
+> _**“有志者事竟成。”**_ - 古人
 
 #### Places where you can contact me
 
