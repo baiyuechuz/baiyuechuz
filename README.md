@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“逆境是成功的阶梯。”**_ - 鲁迅
+> _**只要站起来的次数比倒下去的次数多，那就是成功。**_ - 古谚
 
 #### Places where you can contact me
 
