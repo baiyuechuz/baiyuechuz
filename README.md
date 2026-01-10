@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
+> _**“逆境是成功的阶梯。”**_ - 鲁迅
 
 #### Places where you can contact me
 
