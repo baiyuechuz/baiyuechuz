@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“酒逢知己千杯少，话不投机半句多。”**_ - 唐代·白居易
+> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
 
 #### Places where you can contact me
 
