@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**时间会告诉我们，简单的喜欢最长远。**_ - 佚名
+> _**“滴水穿石，绳锯木断。”**_ - 古人
 
 #### Places where you can contact me
 
