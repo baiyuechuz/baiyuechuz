@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“记住你是谁，记住你要做什么。”**_ - 古人
+> _**“得其大者，可以兼其小者。”**_ - 孔子
 
 #### Places where you can contact me
 
