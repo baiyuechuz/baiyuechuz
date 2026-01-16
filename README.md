@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“大漠孤烟直，长河落日圆。”**_ - 王维
+> _**心有多大，舞台就有多大。**_ - 佚名
 
 #### Places where you can contact me
 
