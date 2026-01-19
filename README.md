@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“前事不忘，后事之师。”**_ - 《左传》
+> _**生命短暂。热情地生活。**_ - 佚名
 
 #### Places where you can contact me
 
