@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**生活就像一杯茶，不会苦一辈子，但总会苦一阵子。**_ - 佚名
+> _**每一次努力，都是幸运的伏笔。**_ - 佚名
 
 #### Places where you can contact me
 
