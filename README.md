@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你笑，全世界都跟着你笑；你哭，全世界只有你一个人哭。**_ - 佚名
+> _**“满招损，谦受益。”**_ - 《尚书》
 
 #### Places where you can contact me
 
