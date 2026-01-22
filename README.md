@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“行远自迩，登高自卑。”**_ - 老子
+> _**“满招损，谦受益。”**_ - 《尚书》
 
 #### Places where you can contact me
 
