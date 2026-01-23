@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“晚风拂柳笛声残，夕阳山外山。”**_ - 王之涣
+> _**“采菊东篱下，悠然见南山。”**_ - 陶渊明
 
 #### Places where you can contact me
 
