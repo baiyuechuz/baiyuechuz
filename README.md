@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“满招损，谦受益。”**_ - 《尚书》
+> _**“晚风拂柳笛声残，夕阳山外山。”**_ - 王之涣
 
 #### Places where you can contact me
 
