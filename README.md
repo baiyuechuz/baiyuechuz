@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“采菊东篱下，悠然见南山。”**_ - 陶渊明
+> _**生活不是用来妥协的。**_ - 佚名
 
 #### Places where you can contact me
 
