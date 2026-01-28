@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
+> _**“有些人，只有在失去后才会懂得珍惜。”**_ - 鲁迅
 
 #### Places where you can contact me
 
