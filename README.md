@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**把时间用在进步上，生活也会蒸蒸日上。**_ - 古谚
+> _**“风雨之后，见彩虹。”**_ - 古谚语
 
 #### Places where you can contact me
 
