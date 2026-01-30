@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“风雨之后，见彩虹。”**_ - 古谚语
+> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
 
 #### Places where you can contact me
 
