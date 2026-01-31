@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**对未来最好的准备就是：今天做的最好。**_ - 古谚
+> _**“天行健，君子以自强不息。”**_ - 《周易》
 
 #### Places where you can contact me
 
