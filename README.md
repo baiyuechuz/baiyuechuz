@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“少壮不努力，老大徒伤悲。”**_ - 汉乐府
+> _**“先天下之忧而忧，后天下之乐而乐。”**_ - 范仲淹
 
 #### Places where you can contact me
 
