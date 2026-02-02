@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“衣带渐宽终不悔，为伊消得人憔悴。”**_ - 柳永
+> _**人生就像一面镜子，你笑它也笑，你哭它也哭。**_ - 佚名
 
 #### Places where you can contact me
 
