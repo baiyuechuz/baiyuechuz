@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**人生没有彩排，每一天都是现场直播。**_ - 佚名
+> _**“天才是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
 
 #### Places where you can contact me
 
