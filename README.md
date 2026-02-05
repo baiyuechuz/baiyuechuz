@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“平生不会相思，才会相思，便害相思。”**_ - 李清照
+> _**“春眠不觉晓，处处闻啼鸟。”**_ - 孟浩然
 
 #### Places where you can contact me
 
