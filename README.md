@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“星星之火，可以燎原。”**_ - 毛泽东
+> _**“逆境是成功的阶梯。”**_ - 鲁迅
 
 #### Places where you can contact me
 
