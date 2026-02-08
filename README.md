@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“逆境是成功的阶梯。”**_ - 鲁迅
+> _**“失败乃成功之母。”**_ - 陈天华
 
 #### Places where you can contact me
 
