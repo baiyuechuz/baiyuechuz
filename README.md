@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“此情可待成追忆，只是当时已惘然。”**_ - 李商隐
+> _**生活就像一杯茶，不会苦一辈子，但总会苦一阵子。**_ - 佚名
 
 #### Places where you can contact me
 
