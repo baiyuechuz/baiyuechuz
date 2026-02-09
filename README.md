@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**生活就像一杯茶，不会苦一辈子，但总会苦一阵子。**_ - 佚名
+> _**“天若有情天亦老，人间正道是沧桑。”**_ - 唐代·辛弃疾
 
 #### Places where you can contact me
 
