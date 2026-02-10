@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**人生就像一面镜子，你笑它也笑，你哭它也哭。**_ - 佚名
+> _**“一寸光阴一寸金，寸金难买寸光阴。”**_ - 古人
 
 #### Places where you can contact me
 
