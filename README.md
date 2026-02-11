@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你不勇敢，没人替你坚强。**_ - 佚名
+> _**“二十年后，我定会回来。”**_ - 朱自清
 
 #### Places where you can contact me
 
