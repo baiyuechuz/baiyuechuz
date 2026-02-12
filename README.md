@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**人生没有彩排，每一天都是现场直播。**_ - 佚名
+> _**你不勇敢，没人替你坚强。**_ - 佚名
 
 #### Places where you can contact me
 
