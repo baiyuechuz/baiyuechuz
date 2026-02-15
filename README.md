@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“吃得苦中苦，方为人上人。”**_ - 谚语
+> _**机不可失，时不再来。**_ - 古谚
 
 #### Places where you can contact me
 
