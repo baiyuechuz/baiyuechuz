@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**不怕慢，就怕站。**_ - 古谚
+> _**“人一能之，己百之；人十能之，己千之。”**_ - 《孟子》
 
 #### Places where you can contact me
 
