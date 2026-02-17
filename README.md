@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“性格决定命运。”**_ - 古谚
+> _**“沉默是金。”**_ - 谚语
 
 #### Places where you can contact me
 
