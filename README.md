@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若不想做，会找到一个借口；你若想做，会找到一个方法。**_ - 古谚
+> _**“海内存知己，天涯若比邻。”**_ - 王勃
 
 #### Places where you can contact me
 
