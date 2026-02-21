@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**星星发光，是为了让每个人找到属于自己的星星。**_ - 古谚
+> _**“滴水穿石，绳锯木断。”**_ - 古人
 
 #### Places where you can contact me
 
