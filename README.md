@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“海内存知己，天涯若比邻。”**_ - 王勃
+> _**做一个温柔的人，温柔到骨子里。**_ - 佚名
 
 #### Places where you can contact me
 
