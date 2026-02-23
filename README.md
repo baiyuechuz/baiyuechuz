@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**你若不坚强，没人替你勇敢。**_ - 佚名
+> _**“千里之堤毁于蚁穴。”**_ - 古谚
 
 #### Places where you can contact me
 
