@@ -12,10 +12,8 @@
 [![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/ebevutruq)
 [![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)](https://ko-fi.com/baiyuechu)
 
-#### Technical Skills
-
-<div align="center">
+<!-- <div align="center">
 
 [![Technical Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs,nodejs,express,mongodb,firebase,javascript,typescript,python,c,cpp,lua,flutter,dart,docker,git,github,gitlab,vercel,postman,bun,linux,arch,bash,ubuntu,windows,neovim,vim,vscode,figma,ps,ai,qt,raspberrypi,tauri,cmake,latex,md,nginx,githubactions,swift,jquery,mysql,notion,obsidian,postgres,sqlite,supabase,vite,kubernetes,apple,discordjs,vuejs,nuxtjs,svelte,cloudflare,selenium,cs,dotnet,bots,matlab,rider,powershell)](https://skillicons.dev)
 
-</div>
+</div> -->
