@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“不经一事，不长一智。”**_ - 古人
+> _**“千里之行，始于足下。”**_ - 老子
 
 #### Places where you can contact me
 
