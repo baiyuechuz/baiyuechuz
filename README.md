@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“己所不欲，勿施于人。”**_ - 孔子
+> _**“不经一事，不长一智。”**_ - 古人
 
 #### Places where you can contact me
 
