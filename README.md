@@ -1,4 +1,4 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></p>
 
-> _**“二十年后，我定会回来。”**_ - 朱自清
+> _**你无法叫醒一个装睡的人。**_ - 佚名
 
