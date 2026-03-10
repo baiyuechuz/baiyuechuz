@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1><b>Hi, I’m Baiyue Chu</b> <img src="./wave.png" width="49"></h1>
+<h3><font size="6"><b>Hi, I’m Baiyue Chu</b></font> <img src="./wave.png" width="49" height="49"></h3>
 
 <p><i><b>“贫贱不能移，富贵不能淫，威武不能屈。”</b></i> - 孟子</p>
 
