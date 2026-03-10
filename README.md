@@ -2,6 +2,8 @@
 
 > _**“贫贱不能移，富贵不能淫，威武不能屈。”**_ - 孟子
 
+---
+
 <div align=center>
 
 ![GitHub followers](https://img.shields.io/github/followers/baiyuechuz?style=for-the-badge&labelColor=181825&color=313244)
