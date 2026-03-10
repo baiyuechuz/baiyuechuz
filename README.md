@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 <div align=center>
 
 ![GitHub followers](https://img.shields.io/github/followers/baiyuechuz?style=for-the-badge&labelColor=181825&color=313244)
