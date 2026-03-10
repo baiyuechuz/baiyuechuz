@@ -1,8 +1,10 @@
-<h1>Hi, I'm Baiyue Chu <img src="./wave.png" width="49" height="49"></h1>
+<div align=center>
 
-> _**“贫贱不能移，富贵不能淫，威武不能屈。”**_ - 孟子
+<h3><b>Hi, I’m Baiyue Chu</b> <img src="./wave.png" width="49" height="49"></h3>
 
----
+<p><i><b>“贫贱不能移，富贵不能淫，威武不能屈。”</b></i> - 孟子</p>
+
+</div>
 
 <div align=center>
 
