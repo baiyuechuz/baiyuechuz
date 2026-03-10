@@ -8,7 +8,7 @@ const quotesFilePath = path.resolve(__dirname, "quotes.json");
 const readmePath = path.resolve(__dirname, "README.md");
 
 const DefaultQuote = {
-	quote: "“醉里挑灯看剑，醒时一笑看尽红尘。”",
+	quote: "\u201c醉里挑灯看剑，醒时一笑看尽红尘。\u201d",
 	author: "Baiyuechu111",
 };
 
@@ -30,21 +30,11 @@ const updateReadme = (quoteBlock) => {
 	try {
 		let readmeContent = readFileSync(readmePath, "utf8");
 
-		const headingRegex = /^#\s*<p>Hi,\s*I['’]m\s*Baiyue\s*Chu.*?<\/p>/im;
-		const match = readmeContent.match(headingRegex);
+		const quoteRegex = /<p><i><b>.*?<\/b><\/i>\s*-\s*.*?<\/p>/i;
+		const match = readmeContent.match(quoteRegex);
 		if (!match) return;
 
-		const headingLine = match[0];
-
-		const pattern = new RegExp(
-			`(${headingLine})(\\n+> _\\*\\*.*?\\*\\*_ - .*?\\n+)?`,
-			"si",
-		);
-
-		const updatedContent = readmeContent.replace(
-			pattern,
-			`$1\n\n${quoteBlock}`,
-		);
+		const updatedContent = readmeContent.replace(quoteRegex, quoteBlock);
 
 		writeFileSync(readmePath, updatedContent, "utf8");
 	} catch (err) {
@@ -54,7 +44,7 @@ const updateReadme = (quoteBlock) => {
 
 (async () => {
 	const { quote, author } = getQuote();
-	const quoteBlock = `> _**${quote}**_ - ${author}\n\n`;
+	const quoteBlock = `<p><i><b>${quote}</b></i> - ${author}</p>`;
 
 	if (quote && author) {
 		updateReadme(quoteBlock);
