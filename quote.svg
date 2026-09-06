@@ -1,8 +1,8 @@
 <svg width="720" height="170" viewBox="0 0 720 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
 	<title id="title">Random quote</title>
-	<desc id="desc">世界上最遥远的距离，是鱼与飞鸟的距离。 - 张小娴</desc>
+	<desc id="desc">“沉默是金。” - 谚语</desc>
 	<text text-anchor="middle" fill="#d1242f" font-family="KaiTi, STKaiti, 'Noto Serif CJK SC', 'Noto Serif SC', serif" font-size="30" font-weight="700" font-style="italic">
-		<tspan x="50%" y="73">世界上最遥远的距离，是鱼与飞鸟的距离。</tspan>
+		<tspan x="50%" y="73">“沉默是金。”</tspan>
 	</text>
-	<text x="50%" y="133" text-anchor="middle" fill="#d1242f" font-family="KaiTi, STKaiti, 'Noto Serif CJK SC', 'Noto Serif SC', serif" font-size="18" font-weight="700" font-style="italic">- 《张小娴》 -</text>
+	<text x="50%" y="133" text-anchor="middle" fill="#d1242f" font-family="KaiTi, STKaiti, 'Noto Serif CJK SC', 'Noto Serif SC', serif" font-size="18" font-weight="700" font-style="italic">- 《谚语》 -</text>
 </svg>
